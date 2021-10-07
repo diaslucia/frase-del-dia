@@ -47,3 +47,19 @@ button {
     color:rgb(109, 64, 34);
     padding: 15px;
 }
+
+@media only screen and (min-width: 0px) and (max-width: 1010px) {
+
+    .contenedorNuevo {
+        padding: -1rem;
+        margin: 0rem 0rem 2rem 0rem;
+        width: 95%;
+        height: auto;
+    }
+    .parrafo {
+        font-size: 30px;
+        margin: 1rem;
+        padding: .5rem;
+    }
+
+}
