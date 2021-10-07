@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(226, 153, 111);
+}
+
+h1 {
+    text-align: center;
+    color:rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: Sacramento;
+    font-weight: 100;
+    margin: 5rem 0rem 2rem 0rem;
+}
+
+.contenedorFrase {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contenedorNuevo {
+    background-color: rgb(255, 255, 255);
+    padding: -1rem;
+    margin: 0rem 0rem 2rem 0rem;
+    width: 40%;
+    height: 150px;
+}
+
+.parrafo {
+    text-align: center;
+    color:rgb(109, 64, 34);
+    font-size: 35px;
+    font-family: Sacramento;
+    font-weight: 100;
+    margin: 2rem;
+    padding: 1rem;
+}
+
+button {
+    display:block;
+    margin:auto;
+    font-size: 20px;
+    font-family: arial;
+    font-weight: 100;
+    border: 0px;
+    background-color: white;
+    color:rgb(109, 64, 34);
+    padding: 15px;
+}
