@@ -29,3 +29,15 @@ const respuesta = (e) => {
 
 boton.addEventListener("click", respuesta);
 
+// Evento que cambia de color el botón
+
+const mouseDownEvent = (evento) => {
+    boton.style.backgroundColor = "#e8d6c8";
+}
+
+const mouseUpEvent = (evento) => {
+    boton.style.backgroundColor = "white";
+}
+
+boton.addEventListener("mouseup", mouseUpEvent);
+boton.addEventListener("mousedown", mouseDownEvent);
