@@ -1,7 +1,14 @@
-# Frase del Día
+# Frase del Día 💬
 
-### Descripción 🚀
+## Descripción 🚀
 
-_Uno de mis primeros proyectos en JavaScript que genera frases positivas al azar. ¡Espero que lo disfruten!_
+Uno de mis primeros proyectos en JavaScript que genera frases positivas al azar. ¡Espero que lo disfruten!
 
-_Hecho en HTML/CSS/JAVASCRIPT_
+## Deploy 🏁
+
+https://diaslucia.github.io/frase-del-dia/
+
+## Herramientas 🛠️
+
+* HTML/CSS
+* JavaScript
